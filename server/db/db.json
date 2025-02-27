@@ -1,10 +1,22 @@
 [
-    {
-    "name": "Austin",
-    "id": "97adf5d9-4b34-4138-a70e-ed418ccd5062"
-},
-{
-    "name": "Atlanta",
-    "id": "aae6bc8a-fcab-4f9d-b04d-a1830c509114"
-}
+	{
+		"name": "Austin",
+		"id": "97adf5d9-4b34-4138-a70e-ed418ccd5062"
+	},
+	{
+		"name": "Atlanta",
+		"id": "aae6bc8a-fcab-4f9d-b04d-a1830c509114"
+	},
+	{
+		"name": "Charlotte",
+		"id": "ba28f860-1b2e-4922-96e3-ba75fb3f5fb8"
+	},
+	{
+		"name": "Detroit",
+		"id": "39e814e1-a4c7-4bfe-8bae-64408c38b7c9"
+	},
+	{
+		"name": "Toronto",
+		"id": "e9265eb1-5db5-4ad2-b6c0-19479f6700c2"
+	}
 ]
